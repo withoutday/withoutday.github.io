@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(146, 14, 14);
+    background-image: url(goth.jpeg);
+    background-size: cover;
+    background-blend-mode:hard-light;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    margin-top: .50em;
+}
+
+#header1 {
+    width: auto;
+    height: 100px;
+    background-size: cover;
+    background-image: url("goth.jpeg");
+    position: relative;
+}
+
+.write{
+    margin-top: 70px;
+    margin-right: 700px;
+    margin-left:50px;
+    line-height: 25px;
+}
+h1{
+    font-family: 'Athiti', sans-serif;
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+    font-style: bold;
+    font-size:55px;
+}
+
+p{
+    font-family: 'Athiti', sans-serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+    font-size: 18px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    margin-top:-150px;
+    margin-left: 550px;  
+}
+
+
